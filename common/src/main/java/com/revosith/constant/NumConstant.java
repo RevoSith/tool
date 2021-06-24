@@ -1,0 +1,126 @@
+package com.revosith.constant;
+
+/**
+ * @author 左轮
+ * @desc 数字常量
+ * @name NumConstant
+ * @date
+ **/
+public class NumConstant {
+    public static final Integer NUM_0 = 0;
+    public static final Integer NUM_1 = 1;
+    public static final Integer NUM_2 = 2;
+    public static final Integer NUM_3 = 3;
+    public static final Integer NUM_4 = 4;
+    public static final Integer NUM_5 = 5;
+    public static final Integer NUM_6 = 6;
+    public static final Integer NUM_7 = 7;
+    public static final Integer NUM_8 = 8;
+    public static final Integer NUM_9 = 9;
+    public static final Integer NUM_10 = 10;
+    public static final Integer NUM_11 = 11;
+    public static final Integer NUM_12 = 12;
+    public static final Integer NUM_13 = 13;
+    public static final Integer NUM_14 = 14;
+    public static final Integer NUM_15 = 15;
+    public static final Integer NUM_16 = 16;
+    public static final Integer NUM_17 = 17;
+    public static final Integer NUM_18 = 18;
+    public static final Integer NUM_19 = 19;
+    public static final Integer NUM_20 = 20;
+    public static final Integer NUM_21 = 21;
+    public static final Integer NUM_22 = 22;
+    public static final Integer NUM_23 = 23;
+    public static final Integer NUM_24 = 24;
+    public static final Integer NUM_25 = 25;
+    public static final Integer NUM_26 = 26;
+    public static final Integer NUM_27 = 27;
+    public static final Integer NUM_28 = 28;
+    public static final Integer NUM_29 = 29;
+    public static final Integer NUM_30 = 30;
+    public static final Integer NUM_31 = 31;
+    public static final Integer NUM_32 = 32;
+    public static final Integer NUM_33 = 33;
+    public static final Integer NUM_34 = 34;
+    public static final Integer NUM_35 = 35;
+    public static final Integer NUM_36 = 36;
+    public static final Integer NUM_37 = 37;
+    public static final Integer NUM_38 = 38;
+    public static final Integer NUM_39 = 39;
+    public static final Integer NUM_40 = 40;
+    public static final Integer NUM_41 = 41;
+    public static final Integer NUM_42 = 42;
+    public static final Integer NUM_43 = 43;
+    public static final Integer NUM_44 = 44;
+    public static final Integer NUM_45 = 45;
+    public static final Integer NUM_46 = 46;
+    public static final Integer NUM_47 = 47;
+    public static final Integer NUM_48 = 48;
+    public static final Integer NUM_49 = 49;
+    public static final Integer NUM_50 = 50;
+    public static final Integer NUM_51 = 51;
+    public static final Integer NUM_52 = 52;
+    public static final Integer NUM_53 = 53;
+    public static final Integer NUM_54 = 54;
+    public static final Integer NUM_55 = 55;
+    public static final Integer NUM_56 = 56;
+    public static final Integer NUM_57 = 57;
+    public static final Integer NUM_58 = 58;
+    public static final Integer NUM_59 = 59;
+    public static final Integer NUM_60 = 60;
+    public static final Integer NUM_61 = 61;
+    public static final Integer NUM_62 = 62;
+    public static final Integer NUM_63 = 63;
+    public static final Integer NUM_64 = 64;
+    public static final Integer NUM_65 = 65;
+    public static final Integer NUM_66 = 66;
+    public static final Integer NUM_67 = 67;
+    public static final Integer NUM_68 = 68;
+    public static final Integer NUM_69 = 69;
+    public static final Integer NUM_70 = 70;
+    public static final Integer NUM_71 = 71;
+    public static final Integer NUM_72 = 72;
+    public static final Integer NUM_73 = 73;
+    public static final Integer NUM_74 = 74;
+    public static final Integer NUM_75 = 75;
+    public static final Integer NUM_76 = 76;
+    public static final Integer NUM_77 = 77;
+    public static final Integer NUM_78 = 78;
+    public static final Integer NUM_79 = 79;
+    public static final Integer NUM_80 = 80;
+    public static final Integer NUM_81 = 81;
+    public static final Integer NUM_82 = 82;
+    public static final Integer NUM_83 = 83;
+    public static final Integer NUM_84 = 84;
+    public static final Integer NUM_85 = 85;
+    public static final Integer NUM_86 = 86;
+    public static final Integer NUM_87 = 87;
+    public static final Integer NUM_88 = 88;
+    public static final Integer NUM_89 = 89;
+    public static final Integer NUM_90 = 90;
+    public static final Integer NUM_91 = 91;
+    public static final Integer NUM_92 = 92;
+    public static final Integer NUM_93 = 93;
+    public static final Integer NUM_94 = 94;
+    public static final Integer NUM_95 = 95;
+    public static final Integer NUM_96 = 96;
+    public static final Integer NUM_97 = 97;
+    public static final Integer NUM_98 = 98;
+    public static final Integer NUM_99 = 99;
+    public static final Integer NUM_100 = 100;
+
+    public static final Integer NUM_NEGATIVE_1 = -1;
+    public static final Integer NUM_NEGATIVE_2 = -2;
+    public static final Integer NUM_NEGATIVE_3 = -3;
+    public static final Integer NUM_NEGATIVE_4 = -4;
+    public static final Integer NUM_NEGATIVE_5 = -5;
+    public static final Integer NUM_NEGATIVE_6 = -6;
+    public static final Integer NUM_NEGATIVE_7 = -7;
+    public static final Integer NUM_NEGATIVE_8 = -8;
+    public static final Integer NUM_NEGATIVE_9 = -9;
+    public static final Integer NUM_NEGATIVE_23 = -23;
+    public static final Integer NUM_NEGATIVE_24 = -24;
+
+    public static final Integer NUM_500 = 500;
+    public static final Integer NUM_1000 = 1000;
+}
