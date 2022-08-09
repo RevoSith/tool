@@ -12,8 +12,7 @@
         <module>common</module>
         <module>datasource-generator</module>
         <module>datasource</module>
-        <module>test-dal</module>
-        <module>test-core</module>
+        <module>demo</module>
     </modules>
 
     <properties>

@@ -108,6 +108,7 @@ public class NumConstant {
     public static final Integer NUM_98 = 98;
     public static final Integer NUM_99 = 99;
     public static final Integer NUM_100 = 100;
+    public static final Integer NUM_256 = 256;
 
     public static final Integer NUM_NEGATIVE_1 = -1;
     public static final Integer NUM_NEGATIVE_2 = -2;

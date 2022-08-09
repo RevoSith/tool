@@ -17,7 +17,7 @@ import java.util.Properties;
  * @author Revosith
  * @date 2020/11/16..
  */
-public class GeneratorCore {
+public class TkMybatisGeneratorCore {
 
 
     public static void main(String[] args) throws Exception {
