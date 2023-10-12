@@ -20,7 +20,7 @@ public class CopyUtils {
      * @param <S>         源泛型
      * @return 拷贝对象
      */
-    public static <T, S> T copySigle(Class<T> targetClazz, S sourceData) {
+    public static <T, S> T copySingle(Class<T> targetClazz, S sourceData) {
         if (sourceData == null) {
             return null;
         }
@@ -39,7 +39,7 @@ public class CopyUtils {
      * @param <S>         源泛型
      * @return 复制结果
      */
-    private static <T, S> T copySigle(Class<T> targetClazz, S sourceData, BeanCopier beanCopier) {
+    private static <T, S> T copySingle(Class<T> targetClazz, S sourceData, BeanCopier beanCopier) {
         T temp;
         try {
             temp = targetClazz.newInstance();

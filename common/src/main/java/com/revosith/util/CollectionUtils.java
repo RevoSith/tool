@@ -4,6 +4,7 @@ package com.revosith.util;
 import com.revosith.constant.NumConstant;
 
 import java.util.Collection;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -23,7 +24,7 @@ public class CollectionUtils {
      * @param collection 集合
      * @return 结果
      */
-    public static boolean isEmpty(Collection collection) {
+    public static boolean isEmpty(Collection<?> collection) {
         return collection == null || collection.isEmpty();
     }
 
@@ -33,7 +34,7 @@ public class CollectionUtils {
      * @param collection 集合
      * @return 结果
      */
-    public static boolean isNotEmpty(Collection collection) {
+    public static boolean isNotEmpty(Collection<?> collection) {
         return !isEmpty(collection);
     }
 
@@ -50,11 +51,10 @@ public class CollectionUtils {
 
     public static <T, D> Map<T, D> getMap(List<D> list, Function<? super D, ? extends T> opt) {
 
-        Map<T, D> result = new HashMap<>();
-
         if (isEmpty(list)) {
-            return result;
+            return Collections.emptyMap();
         }
+        Map<T, D> result = new HashMap<>(list.size());
 
         for (D data : list) {
             result.put(opt.apply(data), data);
